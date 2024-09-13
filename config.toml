@@ -5,7 +5,7 @@ theme = ["hugo-initio"]
 
 [params]
     name = "Domenico Iuso, PhD"
-    description = "A R&D engineer with an eye for X-rays"
+    description = "A R&D Engineer with an eye for X-rays"
     email = "snipdomenico@gmail.com"
     #phone = "+234 23 9873237"
     #address = "234 Hidden Pond Road, Ashland City, TN 37015"
