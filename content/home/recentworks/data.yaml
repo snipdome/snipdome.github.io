@@ -1,0 +1,57 @@
+---
+- id: 0
+  name: 3D Projection-CAD/CAM registration
+  image: gifs/registration/opt3d.gif
+  url: "#"
+  items:
+  - name: Web design
+    url: "#"
+  - name: Wordpress
+    url: "#"
+  - name: Logotype
+    url: "#"
+- id: 1
+  name: Semantic defect segmentation
+  image: images/s1.jpg
+  url: "#"
+  items:
+  - name: Web design
+    url: "#"
+  - name: Wordpress
+    url: "#"
+- id: 2
+  name: Shape deformation estimation
+  image: images/s1.jpg
+  url: "#"
+  items:
+  - name: Web design
+    url: "#"
+  - name: Logotype
+    url: "#"
+- id: 3
+  name: X-ray scattering compensation
+  image: images/s1.jpg
+  url: "#"
+  items:
+  - name: Web design
+    url: "#"
+  - name: Wordpress
+    url: "#"
+- id: 4
+  name: Large-scale GATE simulation management
+  image: images/s1.jpg
+  url: "#"
+  items:
+  - name: Web design
+    url: "#"
+  - name: Logotype
+    url: "#"
+- id: 5
+  name: Distributed iterative discrete/poly-chromatic reconstruction
+  image: images/s1.jpg
+  url: "#"
+  items:
+  - name: Web design
+    url: "#"
+  - name: Logotype
+    url: "#"

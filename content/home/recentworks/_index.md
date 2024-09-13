@@ -1,7 +1,7 @@
 +++
 title = "Recent works"
 type = "recentwork"
-file = "data.json"
+file = "data.yaml"
 weight = 2
 +++
 
