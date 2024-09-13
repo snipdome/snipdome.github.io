@@ -4,21 +4,17 @@
   image: gifs/registration/opt3d.gif
   url: "#"
   items:
-  - name: Web design
-    url: "#"
-  - name: Wordpress
-    url: "#"
-  - name: Logotype
-    url: "#"
+  - name: Read the article
+    url: "https://link.springer.com/article/10.1007/s10921-024-01071-y"
 - id: 1
   name: Semantic defect segmentation
   image: images/s1.jpg
   url: "#"
   items:
-  - name: Web design
-    url: "#"
-  - name: Wordpress
-    url: "#"
+  - name: Read the article
+    url: "https://arxiv.org/abs/2305.07894"
+  - name: Visit the repository
+    url: "https://github.com/snipdome/nn_3D-anomaly-detection"
 - id: 2
   name: Shape deformation estimation
   image: images/s1.jpg
@@ -33,18 +29,14 @@
   image: images/s1.jpg
   url: "#"
   items:
-  - name: Web design
-    url: "#"
-  - name: Wordpress
-    url: "#"
+  - name: Read the article
+    url: "https://www.sciencedirect.com/science/article/pii/S0141635924001818"
 - id: 4
   name: Large-scale GATE simulation management
   image: images/s1.jpg
   url: "#"
   items:
-  - name: Web design
-    url: "#"
-  - name: Logotype
+  - name: Visit the repository
     url: "#"
 - id: 5
   name: Distributed iterative discrete/poly-chromatic reconstruction
