@@ -2,6 +2,6 @@
 title = "Tools"
 type = "tool"
 weight = 4
-images = ["tools/images/cuda.png","tools/images/deepspeed.png"]
+images = ["tools/images/cuda.png", "tools/images/deepspeed.png", "tools/images/mpi.png"]
 +++
 
