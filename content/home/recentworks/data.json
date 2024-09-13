@@ -1,7 +1,7 @@
 [
     {
         "id": 0,
-        "name": "Sample title - big data solutions",
+        "name": "CAD/CAM-object registration",
         "image": "images/s1.jpg",
         "url": "#",
         "items": [
@@ -21,7 +21,7 @@
     },
     {
         "id": 1,
-        "name": "Pure ipsum - development services for people",
+        "name": "Semantic defect segmentation",
         "image": "images/s1.jpg",
         "url": "#",
         "items": [
@@ -37,7 +37,7 @@
     },
     {
         "id": 2,
-        "name": "Lorem studios - interior and patio design",
+        "name": "Shape deformation estimation",
         "image": "images/s1.jpg",
         "url": "#",
         "items": [
@@ -53,7 +53,7 @@
     },
     {
         "id": 3,
-        "name": "Pure ipsum - development services for people",
+        "name": "X-ray scattering compensation",
         "image": "images/s1.jpg",
         "url": "#",
         "items": [
@@ -69,7 +69,7 @@
     },
     {
         "id": 4,
-        "name": "Lorem studios - interior and patio design",
+        "name": "Large-scale GATE simulation management",
         "image": "images/s1.jpg",
         "url": "#",
         "items": [
@@ -85,7 +85,7 @@
     },
     {
         "id": 5,
-        "name": "Lorem studios - interior and patio design",
+        "name": "Distributed iterative discrete/poly-chromatic reconstruction",
         "image": "images/s1.jpg",
         "url": "#",
         "items": [

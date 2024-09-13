@@ -19,9 +19,9 @@ theme = ["hugo-initio"]
     author = "Domenico Iuso"
 
     showSubheader = true
-    showServices = true
+    showServices = false
     showRecentWorks = true
-    showDownloads = true
+    showDownloads = false
     showTools = true
 
     showFooterContact = true
