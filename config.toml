@@ -1,7 +1,7 @@
 baseURL = "https://example.com/"
 languageCode = "en"
 title = "Initio - Free, multipurpose html5 template by GetTemplate"
-theme = ["themes/hugo-initio"]
+theme = ["hugo-initio"]
 
 [params]
     name = "Domenico Iuso"
