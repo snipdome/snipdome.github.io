@@ -1,22 +1,22 @@
 baseURL = "https://snipdome.github.io/"
 languageCode = "en"
-title = "Initio - Free, multipurpose html5 template by GetTemplate"
+title = "Domenico's web-corner"
 theme = ["hugo-initio"]
 
 [params]
-    name = "Domenico Iuso"
-    description = "A mystery person"
-    email = "anthony.russel42@example.com"
-    phone = "+234 23 9873237"
-    address = "234 Hidden Pond Road, Ashland City, TN 37015"
-    year = 2017
-    avatar = "images/guy.jpg"
+    name = "Domenico Iuso, PhD"
+    description = "A R&D engineer with an eye for X-rays"
+    email = "snipdomenico@gmail.com"
+    #phone = "+234 23 9873237"
+    #address = "234 Hidden Pond Road, Ashland City, TN 37015"
+    year = 2024
+    avatar = "images/photo.jpg"
     avatarclass = "circle"
     background = ""
     banner = "images/bg_head.jpg"
     favicon = "images/gt_favicon.png"
-    DateForm = "January 2, 2006"
-    author = "Sergey Pozhilov (GetTemplate.com)"
+    DateForm = "September 13, 2024"
+    author = "Domenico Iuso"
 
     showSubheader = true
     showServices = true
