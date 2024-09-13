@@ -37,7 +37,7 @@
   url: "#"
   items:
   - name: Visit the repository
-    url: "#"
+    url: "https://github.com/snipdome/mpiForGate"
 - id: 5
   name: Distributed iterative discrete/poly-chromatic reconstruction
   image: images/s1.jpg
