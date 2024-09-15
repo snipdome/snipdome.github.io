@@ -40,6 +40,10 @@ theme = ["hugo-initio"]
     url = "/"
     weight = 1
 [[menu.main]]
+    name = "ORCID"
+    url = "https://orcid.org/0000-0001-7919-7878"
+    weight = 2
+[[menu.main]]
     name = "blog"
     url = "/post/"
     weight = 5
