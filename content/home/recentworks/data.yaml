@@ -17,33 +17,29 @@
     url: "https://github.com/snipdome/nn_3D-anomaly-detection"
 - id: 2
   name: Shape deformation estimation
-  image: images/s1.jpg
+  image: images/deformation/gear_deformation.png
   url: "#"
   items:
-  - name: Web design
-    url: "#"
-  - name: Logotype
+  - name: <>
     url: "#"
 - id: 3
-  name: X-ray scattering compensation
-  image: images/s1.jpg
-  url: "#"
-  items:
-  - name: Read the article
-    url: "https://www.sciencedirect.com/science/article/pii/S0141635924001818"
-- id: 4
   name: Large-scale GATE simulation management
   image: images/s1.jpg
   url: "#"
   items:
   - name: Visit the repository
     url: "https://github.com/snipdome/mpiForGate"
+- id: 4
+  name: X-ray scattering compensation
+  image: gifs/scatter/scatter3d.gif
+  url: "#"
+  items:
+  - name: Read the article
+    url: "https://www.sciencedirect.com/science/article/pii/S0141635924001818"
 - id: 5
   name: Distributed iterative discrete/poly-chromatic reconstruction
   image: images/s1.jpg
   url: "#"
   items:
-  - name: Web design
-    url: "#"
-  - name: Logotype
+  - name: <>
     url: "#"

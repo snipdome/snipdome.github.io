@@ -1,11 +1,17 @@
-baseURL = "https://snipdome.github.io/"
+#baseURL = "https://snipdome.github.io/"
 languageCode = "en"
 title = "Domenico's web-corner"
 theme = ["hugo-initio"]
+# uglyURLs = true
+# relativeURLs = true
+
+# [build.environment]
+#   HUGO_ENV = "production"
+#   HUGO_VERSION = "0.134.1"
 
 [params]
     name = "Domenico Iuso, PhD"
-    description = "Biomedical engineer with an eye for X-rays and a discrete AI"
+    description = "Understanding X-rays with a discrete (A)I"
     email = "snipdomenico@gmail.com"
     #phone = "+234 23 9873237"
     #address = "234 Hidden Pond Road, Ashland City, TN 37015"
@@ -64,7 +70,7 @@ theme = ["hugo-initio"]
 #    network = "twitter"
 [[params.social]]
 	title = "instagram"
-	url = "https://www.instagram.com/nickname"
+	url = "https://www.instagram.com/snipdome"
     icon = "fab fa-instagram"
     footer = true
     sharethis = false
@@ -80,7 +86,7 @@ theme = ["hugo-initio"]
 	title = "linkedin"
 	url = "https://www.linkedin.com/in/domenicoiuso/"
     icon = "fab fa-linkedin"
-    footer = false
+    footer = true
     sharethis = true
     network = "linkedin"
 # [[params.social]]
