@@ -4,15 +4,8 @@ title = "About"
 type = "about"
 weight = 10
 +++
+Hey there! I am a curious engineer who enjoys to understand and simplify complex tasks, by building even more complex procedures that serve as solutions. With over 8 years under my belt in crafting software solutions, I have wandered through the realms of X-ray physics, computer vision, and artificial intelligence.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+My journey took me from the historic halls of the Biomedical Engineering department of "La Sapienza" University of Rome, where I tried to backtrack therapeutic particles just for fun (and a master's degree), to the industrial world, until I landed in Antwerp. Along the way, I have convinced computers to enhance 2D/3D images, to spot tiny defects playing hide-and-seek in noisy environments, and even tried teaching them to do my chores (they're still rebelling)..
 
-![about](../images/mac.jpg)
-
-### Necessitatibus
-
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
-
-### Fugit, laboriosam
-
-Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?
+Fluent in C++, CUDA, and Pythonic languages (tried with Dutch, but it kept throwing syntax errors), I have developed and maintained scalable, distributed apps that make GPUs sweat. When I'm not busy dodging X-rays or mentoring future tech gurus, you might find me smashing shuttlecocks on a badminton court or whipping up my next baking adventure.
