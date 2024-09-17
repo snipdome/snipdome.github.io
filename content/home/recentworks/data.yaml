@@ -8,7 +8,7 @@
     url: "https://link.springer.com/article/10.1007/s10921-024-01071-y"
 - id: 1
   name: Semantic defect segmentation
-  image: images/s1.jpg
+  image: gifs/pore/defects.gif
   url: "#"
   items:
   - name: Read the article
