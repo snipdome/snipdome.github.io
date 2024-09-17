@@ -9,6 +9,13 @@ theme = ["hugo-initio"]
 #   HUGO_ENV = "production"
 #   HUGO_VERSION = "0.134.1"
 
+
+[markup.goldmark.parser]
+    wrapStandAloneImageWithinParagraph = false # default is true
+[markup.goldmark.parser.attribute]
+    title = true # default is true; applies to h1-h6 elements
+    block = true # default is false; applies to other block-level elements 
+
 [params]
     name = "Domenico Iuso, PhD"
     description = "Understanding X-rays with a discrete (A)I"

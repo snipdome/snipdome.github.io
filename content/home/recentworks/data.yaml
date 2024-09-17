@@ -2,7 +2,7 @@
 - id: 0
   name: 3D Projection-CAD/CAM registration
   image: gifs/registration/opt3d.gif
-  url: "#"
+  url: "/registration"
   items:
   - name: Read the article
     url: "https://link.springer.com/article/10.1007/s10921-024-01071-y"
