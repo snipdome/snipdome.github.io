@@ -20,7 +20,7 @@
   image: images/deformation/gear_deformation.png
   url: "#"
   items:
-  - name: <>
+  - name: Article coming soon
     url: "#"
 - id: 3
   name: Large-scale GATE simulation management
