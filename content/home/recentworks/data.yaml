@@ -9,7 +9,7 @@
 - id: 1
   name: Semantic DL-based defect segmentation
   image: gifs/pore/defects.gif
-  url: "#"
+  url: "/pore_segmentation"
   items:
   - name: Read the article
     url: "https://arxiv.org/abs/2305.07894"
@@ -41,5 +41,5 @@
   image: images/s1.jpg
   url: "#"
   items:
-  - name: <>
+  - name: Soon to be merged into the ASTRA toolbox
     url: "#"
