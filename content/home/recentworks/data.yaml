@@ -1,13 +1,13 @@
 ---
 - id: 0
-  name: 3D Projection-CAD/CAM registration
+  name: Radiograph-based CAD/object registration
   image: gifs/registration/opt3d.gif
   url: "/registration"
   items:
   - name: Read the article
     url: "https://link.springer.com/article/10.1007/s10921-024-01071-y"
 - id: 1
-  name: Semantic defect segmentation
+  name: Semantic DL-based defect segmentation
   image: gifs/pore/defects.gif
   url: "#"
   items:
@@ -16,7 +16,7 @@
   - name: Visit the repository
     url: "https://github.com/snipdome/nn_3D-anomaly-detection"
 - id: 2
-  name: Shape deformation estimation
+  name: Radiograph-based shape deformation estimation
   image: images/deformation/gear_deformation.png
   url: "#"
   items:
