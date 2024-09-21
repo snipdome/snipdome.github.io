@@ -18,7 +18,7 @@
 - id: 2
   name: Radiograph-based shape deformation estimation
   image: images/deformation/gear_deformation.png
-  url: "#"
+  url: "/deformation"
   items:
   - name: Article coming soon
     url: "#"
@@ -35,11 +35,11 @@
   url: "#"
   items:
   - name: Read the article
-    url: "https://www.sciencedirect.com/science/article/pii/S0141635924001818"
+    url: "https://doi.org/10.1016/j.precisioneng.2024.08.006"
 - id: 5
   name: Distributed iterative discrete and poly-chromatic reconstructions
   image: images/distributed_reconstruction/out.png
   url: "/distributed_reconstruction"
   items:
   - name: Soon to be merged into the ASTRA toolbox
-    url: "#"
+    url: "https://github.com/astra-toolbox/astra-toolbox"
