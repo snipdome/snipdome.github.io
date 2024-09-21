@@ -37,9 +37,9 @@
   - name: Read the article
     url: "https://www.sciencedirect.com/science/article/pii/S0141635924001818"
 - id: 5
-  name: Distributed iterative discrete/poly-chromatic reconstruction
-  image: images/s1.jpg
-  url: "#"
+  name: Distributed iterative discrete and poly-chromatic reconstructions
+  image: images/distributed_reconstruction/out.png
+  url: "/distributed_reconstruction"
   items:
   - name: Soon to be merged into the ASTRA toolbox
     url: "#"
