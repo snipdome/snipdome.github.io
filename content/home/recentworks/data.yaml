@@ -28,7 +28,7 @@
   url: "#"
   items:
   - name: Visit the repository
-    url: "https://github.com/snipdome/mpiForGate"
+    url: "https://github.com/mpiForGate/mpiForGate"
 - id: 4
   name: X-ray scattering compensation
   image: gifs/scatter/scatter3d.gif
