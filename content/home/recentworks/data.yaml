@@ -32,7 +32,7 @@
 - id: 4
   name: X-ray scattering compensation
   image: gifs/scatter/scatter3d.gif
-  url: "#"
+  url: "/scatter"
   items:
   - name: Read the article
     url: "https://doi.org/10.1016/j.precisioneng.2024.08.006"
