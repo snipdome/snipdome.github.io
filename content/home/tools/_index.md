@@ -23,6 +23,7 @@ images = [
     "images/tools/pytorch.png", 
     "images/tools/geant4.png", 
     "images/tools/gate.png", 
+    "images/tools/qt-qml.png", 
     ]
 +++
 
