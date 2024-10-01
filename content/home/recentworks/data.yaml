@@ -24,8 +24,8 @@
     url: "#"
 - id: 3
   name: Large-scale GATE simulation management
-  image: images/s1.jpg
-  url: "#"
+  image: gifs/mpi/mpi_pipeline.gif
+  url: "https://github.com/mpiForGate/mpiForGate"
   items:
   - name: Visit the repository
     url: "https://github.com/mpiForGate/mpiForGate"
