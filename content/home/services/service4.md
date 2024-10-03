@@ -1,5 +1,9 @@
 +++
-title = "X-ray physics"
+title = "X-ray generation and interaction"
 +++
 
-With a PhD specialised in X-ray physics, I bring deep expertise in CT image reconstruction, X-ray scatter compensation, Monte Carlo simulations and CAD-image registration. My work is currently used as imaging techniques for industrial and medical applications.
+I specialize in X-ray generation and interaction, focusing on CT image reconstruction, scatter compensation, image formation and simulations.
+
+<!--more-->
+
+With a PhD specializing in X-ray physics, I possess extensive expertise in X-ray generation and interaction, focusing on CT image reconstruction, X-ray scatter compensation, Monte Carlo simulations and CT-image registration. I developed GPU-distributed version of poly-chromatic and discrete iterative reconstructions. The methodologies and insights I have gained are currently applied in both industrial and medical settings.
