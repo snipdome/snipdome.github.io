@@ -32,7 +32,7 @@ theme = ["hugo-initio"]
     author = "Domenico Iuso"
 
     showSubheader = true
-    showServices = false
+    showServices = true
     showRecentWorks = true
     showDownloads = false
     showTools = true
