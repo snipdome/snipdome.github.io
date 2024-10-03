@@ -1,9 +1,5 @@
 +++
-title = "Custom website design"
+title = "Problem inspection and decomposition"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
-
-<!--more-->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+One of my strongest skills is problem inspection and decomposition, which is an essential procedure for tackling down real-world challenges. My approach involves thoroughly analyzing problems to identify underlying factors, in order to break them down into manageable and, if possible, controllable components. This methodology has laid the foundation for my understanding of clean and maintainable programming, as well as deep learning.

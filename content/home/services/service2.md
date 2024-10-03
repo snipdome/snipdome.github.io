@@ -1,9 +1,5 @@
 +++
-title = "Wordpress integration"
+title = "Software development"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
-
-<!--more-->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+With extensive experience in software development, I have refined my skills in creating scalable, high-performance applications. I am proficient in a wide range of programming languages and development frameworks, enabling me to design, implement, and maintain software solutions across various domains. My work includes distributed GPU programming and multi-threaded frameworks, always focusing on speed, efficiency, and, most importantly, practical solutions.

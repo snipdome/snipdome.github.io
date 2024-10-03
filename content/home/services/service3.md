@@ -1,9 +1,5 @@
 +++
-title = "Application development"
+title = "Deep Learning and computer vision"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
-
-<!--more-->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I specialize in applying deep learning to challenging computer vision tasks, including semantic segmentation and 3D image analysis in noisy environments. With experience in both supervised and unsupervised learning, I’ve developed advanced models for medical imaging and industrial applications like porosity detection in 3D printed parts, as well as reinforcement learning in medical applications.
