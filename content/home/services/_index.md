@@ -1,6 +1,6 @@
 +++
 title = "In a nutshell"
 type = "service"
-weight = 2
+weight = 3
 +++
 
